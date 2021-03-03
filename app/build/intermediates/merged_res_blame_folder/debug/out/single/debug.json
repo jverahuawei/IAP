@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_layout.xml.flat",
+        "source": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\src\\main\\res\\layout\\demo_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout.xml.flat",
+        "source": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_ball.png.flat",
+        "source": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\src\\main\\res\\drawable\\blue_ball.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iap.png.flat",
+        "source": "D:\\Documents\\AndroidJava\\Codelabs\\IAP-Oversea\\app\\src\\main\\res\\drawable\\iap.png"
+    }
+]
